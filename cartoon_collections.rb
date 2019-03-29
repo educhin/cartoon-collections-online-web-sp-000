@@ -20,4 +20,5 @@ def find_the_cheese(collection)
       return cheese
     end
   end
+  nil
 end
